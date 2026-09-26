@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/D5616AQERO_HZtWE2GA/profile-displaybackgroundimage-shrink_350_1400/0/1711002426710?e=1720051200&v=beta&t=fgCwmyUDX0cbArvpJeN0JXI8oiuNtSYdVvcTtQNVhZo" alt="">
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQEKCLr5fuZl0g/profile-displaybackgroundimage-shrink_200_800/B4DaDdjvttKkAU-/0/1790423530623?e=1792022400&v=beta&t=7nhaN2yUEbGI-QlFwEMc1xjYJHk-35tULmfM041WhvA" alt="">
 <h1 align="center">Hello, I'm <b>Omerullah Ansari</b></h1>
 <h3 align="center"><em>A passionate Software Developer from Pakistan</em></h3>
 
